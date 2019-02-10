@@ -32,3 +32,30 @@ Session 5
         Transpose of a matrix, Matrix Inverse, 
         Element wise multiplication 
         Broadcasting technique in numpy
+
+Session 6
+
+        TIC TAC TOE 
+        lists, functions, loops to generate a simple TIC TAC TOE game.
+ 
+Session 7
+
+        TIC TAC TOE 
+        lists, functions, loops to generate a simple TIC TAC TOE game.
+ 
+ Session 8
+
+        TIC TAC TOE 
+        lists, functions, loops to generate a simple TIC TAC TOE game.
+        
+Session 9
+
+        TIC TAC TOE 
+        lists, functions, loops to generate a simple TIC TAC TOE game.
+       
+       
+Session 10
+
+        TIC TAC TOE 
+        lists, functions, loops to generate a simple TIC TAC TOE game.
+
